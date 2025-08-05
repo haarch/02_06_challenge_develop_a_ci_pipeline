@@ -44,4 +44,6 @@ jobs:
       with:
         report_paths: '**/junit.xml'
         summary: 'auto'
+        include_failed: 'only'
+
         
