@@ -44,6 +44,6 @@ jobs:
       with:
         report_paths: '**/junit.xml'
         detailed_summary: true
-        include_empty_in_summary: false
+        # include_empty_in_summary: false
 
         
